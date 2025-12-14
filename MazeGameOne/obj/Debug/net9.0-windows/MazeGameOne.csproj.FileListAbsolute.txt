@@ -1,0 +1,16 @@
+C:\Users\alexa\source\repos\GameOne\obj\Debug\net9.0-windows\MazeGameOne.Form1.resources
+C:\Users\alexa\source\repos\GameOne\obj\Debug\net9.0-windows\MazeGameOne.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\GameOne\obj\Debug\net9.0-windows\MazeGameOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\GameOne\obj\Debug\net9.0-windows\MazeGameOne.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\GameOne\obj\Debug\net9.0-windows\MazeGameOne.AssemblyInfo.cs
+C:\Users\alexa\source\repos\GameOne\obj\Debug\net9.0-windows\MazeGameOne.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\GameOne\bin\Debug\net9.0-windows\MazeGameOne.exe
+C:\Users\alexa\source\repos\GameOne\bin\Debug\net9.0-windows\MazeGameOne.deps.json
+C:\Users\alexa\source\repos\GameOne\bin\Debug\net9.0-windows\MazeGameOne.runtimeconfig.json
+C:\Users\alexa\source\repos\GameOne\bin\Debug\net9.0-windows\MazeGameOne.dll
+C:\Users\alexa\source\repos\GameOne\bin\Debug\net9.0-windows\MazeGameOne.pdb
+C:\Users\alexa\source\repos\GameOne\obj\Debug\net9.0-windows\MazeGameOne.dll
+C:\Users\alexa\source\repos\GameOne\obj\Debug\net9.0-windows\refint\MazeGameOne.dll
+C:\Users\alexa\source\repos\GameOne\obj\Debug\net9.0-windows\MazeGameOne.pdb
+C:\Users\alexa\source\repos\GameOne\obj\Debug\net9.0-windows\MazeGameOne.genruntimeconfig.cache
+C:\Users\alexa\source\repos\GameOne\obj\Debug\net9.0-windows\ref\MazeGameOne.dll
