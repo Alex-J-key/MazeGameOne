@@ -1,0 +1,17 @@
+C:\Users\alexa\source\repos\GameOne\bin\Debug\net9.0-windows\GameOne.exe
+C:\Users\alexa\source\repos\GameOne\bin\Debug\net9.0-windows\GameOne.deps.json
+C:\Users\alexa\source\repos\GameOne\bin\Debug\net9.0-windows\GameOne.runtimeconfig.json
+C:\Users\alexa\source\repos\GameOne\bin\Debug\net9.0-windows\GameOne.dll
+C:\Users\alexa\source\repos\GameOne\bin\Debug\net9.0-windows\GameOne.pdb
+C:\Users\alexa\source\repos\GameOne\obj\Debug\net9.0-windows\GameOne.Form1.resources
+C:\Users\alexa\source\repos\GameOne\obj\Debug\net9.0-windows\GameOne.csproj.GenerateResource.cache
+C:\Users\alexa\source\repos\GameOne\obj\Debug\net9.0-windows\GameOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\GameOne\obj\Debug\net9.0-windows\GameOne.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\GameOne\obj\Debug\net9.0-windows\GameOne.AssemblyInfo.cs
+C:\Users\alexa\source\repos\GameOne\obj\Debug\net9.0-windows\GameOne.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\GameOne\obj\Debug\net9.0-windows\GameOne.dll
+C:\Users\alexa\source\repos\GameOne\obj\Debug\net9.0-windows\refint\GameOne.dll
+C:\Users\alexa\source\repos\GameOne\obj\Debug\net9.0-windows\GameOne.pdb
+C:\Users\alexa\source\repos\GameOne\obj\Debug\net9.0-windows\GameOne.genruntimeconfig.cache
+C:\Users\alexa\source\repos\GameOne\obj\Debug\net9.0-windows\ref\GameOne.dll
+C:\Users\alexa\source\repos\GameOne\obj\Debug\net9.0-windows\Game.Form1.resources
